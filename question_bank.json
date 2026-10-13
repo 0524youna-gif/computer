@@ -1,0 +1,272 @@
+[
+  {
+    "id": "q01",
+    "type": 1,
+    "difficulty": "하",
+    "title": "Late to a Group Presentation",
+    "situation": "You are a university student who was supposed to present the first part of a group project. You arrived late because your bus was delayed, and your teammates had to begin without you. You want to apologize to your professor.",
+    "task": "Write an email to your professor.",
+    "bullets": [
+      "Apologize for arriving late to the presentation.",
+      "Explain what caused the delay and how it affected your group.",
+      "Suggest how you can make up for the missed part."
+    ],
+    "to": "your professor",
+    "subject": "Apology for Arriving Late"
+  },
+  {
+    "id": "q02",
+    "type": 1,
+    "difficulty": "중",
+    "title": "Missed a Meeting",
+    "situation": "You scheduled a meeting with your academic advisor to discuss your course plan, but you forgot about it and did not attend. You would like to apologize and arrange another meeting.",
+    "task": "Write an email to your academic advisor.",
+    "bullets": [
+      "Apologize for missing the meeting.",
+      "Explain why you were unable to attend.",
+      "Ask to schedule another meeting and explain how you will avoid missing it again."
+    ],
+    "to": "your academic advisor",
+    "subject": "Apology for Missing Our Meeting"
+  },
+  {
+    "id": "q03",
+    "type": 1,
+    "difficulty": "상",
+    "title": "Damaged a Borrowed Book",
+    "situation": "You borrowed a book from a classmate for a course project. You accidentally spilled coffee on several pages, and the book is now damaged. You want to apologize and offer to resolve the situation.",
+    "task": "Write an email to your classmate.",
+    "bullets": [
+      "Apologize for damaging the book.",
+      "Explain how the damage happened.",
+      "Offer to replace the book or pay for the repair."
+    ],
+    "to": "your classmate",
+    "subject": "Apology for Damaging Your Book"
+  },
+  {
+    "id": "q04",
+    "type": 2,
+    "difficulty": "하",
+    "title": "Dormitory Heating Problem",
+    "situation": "You live in a university dormitory, but the heating system in your room has not been working properly for several days. You have already reported the problem once, but no repairs have been made.",
+    "task": "Write an email to the housing manager.",
+    "bullets": [
+      "Explain what is wrong with the heating system.",
+      "Describe when you reported the problem and how the cold room is affecting you.",
+      "Request a repair and suggest a temporary solution."
+    ],
+    "to": "the housing manager",
+    "subject": "Request for Heating Repair"
+  },
+  {
+    "id": "q05",
+    "type": 2,
+    "difficulty": "중",
+    "title": "Unstable Internet Connection",
+    "situation": "You have been experiencing an unstable internet connection in your campus apartment for the past week. The connection often drops during online classes, and your attempts to restart the router have not solved the problem.",
+    "task": "Write an email to the IT support team.",
+    "bullets": [
+      "Describe the internet problem and how often it occurs.",
+      "Explain how it is affecting your classes and assignments.",
+      "Request help and suggest a convenient time for a technician to visit."
+    ],
+    "to": "the IT support team",
+    "subject": "Unstable Internet Connection"
+  },
+  {
+    "id": "q06",
+    "type": 2,
+    "difficulty": "상",
+    "title": "Broken Laundry Machines",
+    "situation": "Several washing machines in your dormitory laundry room have been out of service for two weeks. You have noticed that students often have to wait a long time to use the remaining machines.",
+    "task": "Write an email to the residence hall manager.",
+    "bullets": [
+      "Explain the problem with the laundry machines.",
+      "Describe how the problem is affecting students.",
+      "Suggest ways to improve the situation while the machines are being repaired."
+    ],
+    "to": "the residence hall manager",
+    "subject": "Laundry Room Equipment Problem"
+  },
+  {
+    "id": "q07",
+    "type": 3,
+    "difficulty": "하",
+    "title": "Research Assistant Position",
+    "situation": "You saw an announcement for a part-time research assistant position in the Psychology Department. The announcement describes the project but does not explain the work schedule or application requirements.",
+    "task": "Write an email to the professor in charge of the project.",
+    "bullets": [
+      "Explain why you are interested in the position.",
+      "Ask about the duties and weekly work hours.",
+      "Ask what qualifications and application materials are required."
+    ],
+    "to": "the professor in charge of the project",
+    "subject": "Inquiry About the Research Assistant Position"
+  },
+  {
+    "id": "q08",
+    "type": 3,
+    "difficulty": "중",
+    "title": "Campus Bookstore Job",
+    "situation": "You noticed a sign advertising a part-time job at the campus bookstore. You are interested in applying, but you need to know whether the work schedule can fit around your classes.",
+    "task": "Write an email to the bookstore manager.",
+    "bullets": [
+      "Express your interest in the job.",
+      "Ask about the main responsibilities and available work shifts.",
+      "Ask how to apply and when applications are due."
+    ],
+    "to": "the bookstore manager",
+    "subject": "Question About Part-Time Work"
+  },
+  {
+    "id": "q09",
+    "type": 3,
+    "difficulty": "상",
+    "title": "Summer Internship",
+    "situation": "Your university career center posted an announcement for a summer internship at a local environmental organization. You would like to learn more before applying.",
+    "task": "Write an email to the internship coordinator.",
+    "bullets": [
+      "Explain why the internship interests you.",
+      "Ask what projects interns usually work on.",
+      "Ask about the application deadline and required documents."
+    ],
+    "to": "the internship coordinator",
+    "subject": "Inquiry About the Summer Internship"
+  },
+  {
+    "id": "q10",
+    "type": 4,
+    "difficulty": "하",
+    "title": "Reschedule an Exam",
+    "situation": "You are scheduled to take a final exam on the same day that you must attend an academic conference where you will present your research. You would like to ask your professor if you can take the exam at another time.",
+    "task": "Write an email to your professor.",
+    "bullets": [
+      "Explain the conflict between the exam and the conference.",
+      "Explain why attending the conference is important to you.",
+      "Request an alternative exam time and offer a possible date."
+    ],
+    "to": "your professor",
+    "subject": "Request to Reschedule the Final Exam"
+  },
+  {
+    "id": "q11",
+    "type": 4,
+    "difficulty": "중",
+    "title": "Attend a Different Class Section",
+    "situation": "Your required course has two discussion sections, but the section you are enrolled in conflicts with your new work schedule. You would like to attend a different section.",
+    "task": "Write an email to the course instructor.",
+    "bullets": [
+      "Explain the conflict with your current section.",
+      "Describe your work schedule and why you need to change sections.",
+      "Ask permission to attend the other section."
+    ],
+    "to": "the course instructor",
+    "subject": "Request to Change Discussion Sections"
+  },
+  {
+    "id": "q12",
+    "type": 4,
+    "difficulty": "상",
+    "title": "Request an Assignment Extension",
+    "situation": "You have been ill for several days and have not been able to complete a major assignment due tomorrow. You have completed part of the work and would like to request a short extension.",
+    "task": "Write an email to your professor.",
+    "bullets": [
+      "Explain why you have not finished the assignment.",
+      "Describe what work you have completed so far.",
+      "Request a new deadline and explain when you can submit the assignment."
+    ],
+    "to": "your professor",
+    "subject": "Request for an Assignment Extension"
+  },
+  {
+    "id": "q13",
+    "type": 5,
+    "difficulty": "하",
+    "title": "Leaving a Campus Job",
+    "situation": "You have worked as a library assistant for six months. You have recently received a research assistant position related to your major, and its schedule conflicts with your library shifts.",
+    "task": "Write an email to your supervisor.",
+    "bullets": [
+      "Explain that you are resigning and state your final working day.",
+      "Explain why you are leaving the position.",
+      "Thank your supervisor and offer to help with the transition."
+    ],
+    "to": "your supervisor",
+    "subject": "Notice of Resignation"
+  },
+  {
+    "id": "q14",
+    "type": 5,
+    "difficulty": "중",
+    "title": "Leaving a Student Organization",
+    "situation": "You are the communications officer of a student club, but your academic workload has increased significantly this semester. You have decided that you can no longer continue in the role.",
+    "task": "Write an email to the club president.",
+    "bullets": [
+      "Explain that you need to leave your position.",
+      "State when you would like your resignation to take effect.",
+      "Offer to help transfer your duties to another member."
+    ],
+    "to": "the club president",
+    "subject": "Resigning from My Club Position"
+  },
+  {
+    "id": "q15",
+    "type": 5,
+    "difficulty": "상",
+    "title": "Ending a Tutoring Job",
+    "situation": "You have been tutoring a high school student through a university program. Your family is moving to another city next month, so you will not be able to continue tutoring.",
+    "task": "Write an email to the program coordinator.",
+    "bullets": [
+      "Explain why you can no longer continue tutoring.",
+      "State when you will be available for your final tutoring session.",
+      "Thank the coordinator and offer suggestions for finding a replacement tutor."
+    ],
+    "to": "the program coordinator",
+    "subject": "Ending My Tutoring Position"
+  },
+  {
+    "id": "q16",
+    "type": 6,
+    "difficulty": "하",
+    "title": "Extend Library Hours",
+    "situation": "The university library closes early during exam periods. Many students have told you that they need a quiet place to study later in the evening.",
+    "task": "Write an email to the library director.",
+    "bullets": [
+      "Explain why the current library hours are a problem.",
+      "Suggest a change to the library schedule.",
+      "Explain how your suggestion would help students."
+    ],
+    "to": "the library director",
+    "subject": "Suggestion for Library Hours During Exams"
+  },
+  {
+    "id": "q17",
+    "type": 6,
+    "difficulty": "중",
+    "title": "Improve the Campus Shuttle Service",
+    "situation": "The campus shuttle is often crowded in the evening, especially when students are returning from late classes. Some students have to wait a long time for the next bus.",
+    "task": "Write an email to the transportation office.",
+    "bullets": [
+      "Describe the problem with the evening shuttle service.",
+      "Suggest one or more ways to improve it.",
+      "Explain how the changes would benefit students."
+    ],
+    "to": "the transportation office",
+    "subject": "Suggestions for the Evening Shuttle"
+  },
+  {
+    "id": "q18",
+    "type": 6,
+    "difficulty": "상",
+    "title": "Add More Vegetarian Meals",
+    "situation": "The university cafeteria offers very few vegetarian meals. Students who do not eat meat often have limited choices, especially during dinner.",
+    "task": "Write an email to the dining services manager.",
+    "bullets": [
+      "Explain the lack of vegetarian choices.",
+      "Suggest specific meals or changes to the menu.",
+      "Explain how your suggestions could benefit students and the cafeteria."
+    ],
+    "to": "the dining services manager",
+    "subject": "Suggestion for More Vegetarian Options"
+  }
+]
